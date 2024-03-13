@@ -55,7 +55,7 @@ To run Plantify, you need the following software installed on your machine:
 1. Run the application by executing the following command:
 
    ```
-   python plantify.py
+   python app.py
    ```
 
 2. Follow the on-screen instructions to enter user information and manage tasks.
