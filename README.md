@@ -62,7 +62,7 @@ To run Plantify, you need the following software installed on your machine:
 
 ## Screenshots
 
-- Insert screenshots here with relevant captions.
+ https://drive.google.com/drive/folders/1f5t52OrllUBo-uYNLUb2fhLDMGgkrOCL?usp=sharing
 
 ## Contributing
 
